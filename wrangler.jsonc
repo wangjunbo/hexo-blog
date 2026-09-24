@@ -1,0 +1,6 @@
+{
+  "name": "hexo-blog",
+  "assets": {
+    "directory": "./public"
+  }
+}
