@@ -1,0 +1,41 @@
+# Header
+menu:
+#  主页: /
+#  美图: /meitu
+  友链: /links
+  关于: /about
+#rss: /atom.xml
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Sidebar
+sidebar: right
+widgets:
+- weixin
+- category
+#- tag
+- tagcloud
+- recent_posts
+
+# display widgets at the bottom of index pages (pagination == 2)
+index_widgets:
+# - category
+# - tagcloud
+# - archive
+
+# widget behavior
+archive_type: 'monthly'
+show_count: false
+
+# Miscellaneous
+weixin: http://www.hohode.com/css/images/qrcode_for_gh_0360e257312d_258.jpg
+# google_analytics: UA-104384399-1
+gauges_analytics:
+baidu_tongji: true
+favicon: /favicon.png
+twitter:
+# google_plus:
+fb_admins:
+fb_app_id:
